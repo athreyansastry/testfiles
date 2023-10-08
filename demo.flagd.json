@@ -1,5 +1,13 @@
 {
   "flags": {
+    "visibleflag": {
+      "state": "ENABLED",
+      "variants": {
+        "on": true,
+        "off": false
+      },
+      "defaultVariant": "off"
+    },
     "showwelcomebanner": {
       "state": "ENABLED",
       "variants": {
